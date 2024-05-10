@@ -1,2 +1,0 @@
-# Trainings
-Materials for Training
